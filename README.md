@@ -12,7 +12,7 @@ Upgraded by: Bibek sah
 
 Credits (Copyright) Don't copy this code without giving the credits!!!
 
-#Commands ->
+# Commands ->
 ```
 pkg update && pkg upgrade pkg install python
 ```
