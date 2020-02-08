@@ -12,10 +12,24 @@ Upgraded by: Bibek sah
 
 Credits (Copyright) Don't copy this code without giving the credits!!!
 
-Commands ->
-
+#Commands ->
+```
 pkg update && pkg upgrade pkg install python
-
+```
+```
 git clone https://github.com/ExpertAnonymousTermux-Lock
-
-cd Termux-Lock chmod +x setup.py chmod +x Termux-Lock.py python Termux-Lock.py OR usr (from any directory of termux)
+```
+```
+cd Termux-Lock 
+```
+```
+chmod +x setup.py
+```
+```
+chmod +x Termux-Lock.py
+```
+```
+python setup.py
+```
+```
+python Termux-Lock.py
