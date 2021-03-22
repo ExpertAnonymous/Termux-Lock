@@ -2,7 +2,9 @@
 import stdiomask as sm
 import os,sys
 
-# coded by Mr.Anonymous
+# coded by Malik Atiquz zaman....
+Instagram:malik_atiquz_.zaman
+
 
 flag = True
 endc = '\033[0m'
